@@ -24,3 +24,8 @@ A dynamic website for an jewelry store website, showcasing products and providin
 -   Interactive navigation and responsive design
     
 -   Clean, modern, and user-friendly interface
+  
+## 🎥 Demo
+Watch this short video demonstrating the project: [View Demo](https://drive.google.com/file/d/1qsw-RdRocxpWtJRyjqGPNv0RYMO5QWFn/view?usp=sharing)
+
+
